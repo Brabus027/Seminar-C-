@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/SeminarC#/Seminar9_dz/bin/Debug/net6.0/Seminar9_dz
+/Users/macbook/Desktop/SeminarC#/Seminar9_dz/bin/Debug/net6.0/Seminar9_dz.deps.json
+/Users/macbook/Desktop/SeminarC#/Seminar9_dz/bin/Debug/net6.0/Seminar9_dz.runtimeconfig.json
+/Users/macbook/Desktop/SeminarC#/Seminar9_dz/bin/Debug/net6.0/Seminar9_dz.dll
+/Users/macbook/Desktop/SeminarC#/Seminar9_dz/bin/Debug/net6.0/Seminar9_dz.pdb
+/Users/macbook/Desktop/SeminarC#/Seminar9_dz/obj/Debug/net6.0/Seminar9_dz.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/SeminarC#/Seminar9_dz/obj/Debug/net6.0/Seminar9_dz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/SeminarC#/Seminar9_dz/obj/Debug/net6.0/Seminar9_dz.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/SeminarC#/Seminar9_dz/obj/Debug/net6.0/Seminar9_dz.AssemblyInfo.cs
+/Users/macbook/Desktop/SeminarC#/Seminar9_dz/obj/Debug/net6.0/Seminar9_dz.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/SeminarC#/Seminar9_dz/obj/Debug/net6.0/Seminar9_dz.dll
+/Users/macbook/Desktop/SeminarC#/Seminar9_dz/obj/Debug/net6.0/refint/Seminar9_dz.dll
+/Users/macbook/Desktop/SeminarC#/Seminar9_dz/obj/Debug/net6.0/Seminar9_dz.pdb
+/Users/macbook/Desktop/SeminarC#/Seminar9_dz/obj/Debug/net6.0/Seminar9_dz.genruntimeconfig.cache
+/Users/macbook/Desktop/SeminarC#/Seminar9_dz/obj/Debug/net6.0/ref/Seminar9_dz.dll
